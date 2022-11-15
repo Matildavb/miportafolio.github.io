@@ -1,0 +1,72 @@
+a{
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+body {
+    background: #cde1e2;
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+html{
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+:root{
+    --cor-de-link: #000;
+}
+
+.tudo{
+    background: #cde1e2;
+
+}
+
+ol, ul,li {
+    list-style: none;
+}
+
+
+/*Tablet*/
+@media (min-width: 768px) {
+
+    }
+    /*Menu*/
+    
+    /*title*/
+    
+    /*Skills*/
+    
+    /*Hobbies*/
+    
+    /*Formación Académica*/
+    
+    /*Experiencia Profesional*/
+    
+
+
+/*Mobile*/
+@media (min-width: 425px) {
+
+/*Menu*/
+
+/*Titulo*/
+
+/*Sección sobre mi*/
+
+/*Skills*/
+
+/*Hobbies*/
+
+/*Formación Académica*/
+
+/*Experiencia Profesional*/
+
+/*Contacto*/
+
+/*Footer*/
+
+}

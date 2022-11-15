@@ -1,0 +1,59 @@
+/*Contacto*/
+.formcontato__text{
+    margin: 2rem;
+}
+
+.formcontato--esquerda{
+    display: flex;
+}
+
+.formcontato__contacto{
+    background: aliceblue;
+    display: flex;
+    text-align: left;
+    margin-top: 5rem;
+}
+.formcontato__subtext{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+.formcontato__botao{
+    height: 51px;
+    width: 144px;
+    left: 0px;
+    top: 545px;
+    border-radius: 0px;
+    padding: 16px;
+
+}
+
+.formcontato__input, .formcontato__textarea{
+    border-radius: 4px;
+    font-family:Raleway;
+    height: 30px;
+    left: 0px;
+    margin-bottom: 20px;
+    padding: 7px;
+    top: 0px;
+    width: 90%;
+}
+
+
+.formcontato__botao{
+    background: #2A7AE4;
+    border-radius: 0px;
+    color: #ffffff;
+    height: 51px;
+    left: 0px;
+    top: 545px;
+    padding: 16px;
+    width: 144px;
+}
+

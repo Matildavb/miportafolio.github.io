@@ -1,0 +1,24 @@
+/*Sección About*/
+
+section.about{
+    font-size: 20px;
+    text-align: center;
+}
+
+.about__title{
+    margin-top: 10px;
+    padding: 37px;
+}
+
+.about__paragraph{
+    font-size: 1.20rem;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.sobre-mi__imagen{
+    width: 500px;
+    padding: 1rem;
+}
+
+

@@ -1,0 +1,17 @@
+/* Experiencia Académica*/
+
+section.academic{
+    text-align: center;
+    padding: 4rem;
+    flex-direction: column;
+}
+
+
+.academic__courses__item__img{
+    padding: 2rem;
+}
+
+.logo__aiep{
+    padding: 2rem;
+
+}

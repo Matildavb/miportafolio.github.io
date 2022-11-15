@@ -1,0 +1,20 @@
+/*Sección Hobbies*/
+
+section.hobbies{
+    text-align: center;
+}
+
+.hobbies__line{
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.img__audifonos{
+    width: 40px;
+}
+
+.hobbies__name{
+    display: flex;
+}

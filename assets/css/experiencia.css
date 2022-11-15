@@ -1,0 +1,13 @@
+/* experiencia*/
+
+section.experience{
+    padding: 3rem;
+}
+
+.experience__info{
+    padding: 2rem;
+}
+
+.experience__img{
+    width: 60%;
+}

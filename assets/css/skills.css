@@ -1,0 +1,14 @@
+.skills{
+    margin-top: 7rem;
+    padding: 34px;
+    text-align: center;
+}
+
+.skills__line{
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+
